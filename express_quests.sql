@@ -111,3 +111,6 @@ VALUES
     'Milan',
     'Spanish'
   );
+SHOW TABLES;
+DESC movies;
+SELECT * FROM movies;
